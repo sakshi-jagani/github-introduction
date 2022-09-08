@@ -46,3 +46,5 @@ Smart Gujarat for new India Hackathon (SGIH), India, Volunteer	February 2020
 ## ADDITIONAL INFORMATION 
 #### Technical Skills: Python, AWS, Java, SQL, HTML/CSS, Microsoft Excel, Github, Web Scrapping. 
 #### Soft Skills: Leadership, Professional speaker, creative, positive attitude.
+
+![Image of Computer Science](https://crc.losrios.edu//crc/main/img/page-assets/Share-Social-1200x630/cac/business-and-computer-science-social.png)
