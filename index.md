@@ -53,3 +53,7 @@ Smart Gujarat for new India Hackathon (SGIH), India, Volunteer	February 2020
 $ git init
 import pandas as pd
 ```
+#### Adding Task List
+- [ ] Submit Your applications
+- [ ] Prepare yourselves for interviews
+- [ ] Have a positive attitude
